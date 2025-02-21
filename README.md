@@ -10,6 +10,9 @@ A brief description of your project.
 - RESTful API for backend operations
 - User-friendly frontend
 
+## Screenshot
+![Image](https://github.com/user-attachments/assets/b345610c-1600-4fe1-9f5f-180fa66d6982)
+
 ## Technologies Used
 
 - **Tailwind CSS** - A utility-first CSS framework for building custom designs.
